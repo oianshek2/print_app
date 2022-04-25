@@ -1,0 +1,7 @@
+.venv
+venv/
+# exclude everything
+invoice_docs/*
+# exception to the rule
+!invoice_docs/.gitkeep
+.idea/
